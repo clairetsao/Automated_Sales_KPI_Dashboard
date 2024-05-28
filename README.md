@@ -1,6 +1,6 @@
 # Data Analyst Project - Sales Performance Analysis
 
-[Sales Dashboard](https://public.tableau.com/views/Salesdashboard_17168646680020/SalesOverview?:language=zh-TW&:sid=&:display_count=n&:origin=viz_share_link)
+[Sales Management Dashboard](https://public.tableau.com/views/Salesdashboard_17168646680020/SalesOverview?:language=zh-TW&:sid=&:display_count=n&:origin=viz_share_link)
 
 ## Project Description
 This project involves creating a comprehensive Sales Performance Dashboard to assist the Sales Manager in monitoring and analyzing sales data. The dashboard provides insights into key sales metrics, helping to make informed decisions to drive business growth.
