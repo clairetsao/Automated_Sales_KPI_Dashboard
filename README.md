@@ -1,4 +1,4 @@
-# Sales_KPI_Dashboard
+# Data Analyst Project - Sales_KPI_Dashboard
 
 [Sales Dashboard](https://public.tableau.com/views/Salesdashboard_17168646680020/SalesOverview?:language=zh-TW&:sid=&:display_count=n&:origin=viz_share_link)
 ## Data Model
